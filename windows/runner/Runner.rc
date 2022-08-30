@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "nox_digital_mobile" "\0"
+            VALUE "FileDescription", "noxdigitalweb" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "nox_digital_mobile" "\0"
+            VALUE "InternalName", "noxdigitalweb" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "nox_digital_mobile.exe" "\0"
-            VALUE "ProductName", "nox_digital_mobile" "\0"
+            VALUE "OriginalFilename", "noxdigitalweb.exe" "\0"
+            VALUE "ProductName", "noxdigitalweb" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

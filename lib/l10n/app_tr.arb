@@ -1,0 +1,228 @@
+{
+    "loginlabel": "Kullanıcı Adı",
+    "@loginlabel": {
+        "description": "Giriş ekranı kullanıcı adı etiketi"
+    },
+    "loginpasswordlabel": "Şifre",
+    "@loginpasswordlabel": {
+        "description": "Giriş ekranı şifre etiketi"
+    },
+    "loginhint": "Kullanıcı Adı Giriniz",
+    "@loginhint": {
+        "description": "Giriş ekranı kullanıcı adı ipucu metni"
+    },
+    "loginpasswordhint": "Şifre Giriniz",
+    "@loginpasswordhint": {
+        "description": "Giriş ekranı şifre ipucu metni"
+    },
+    "appname": "Nox Digital",
+    "@appname": {
+        "description": "Uygulama İsmi"
+    },
+    "whorwe": "Biz Kimiz?",
+    "@whorwe": {
+        "description": "AppBarText1"
+    },
+    "whatrwedoin": "Neler Yapıyoruz?",
+    "@whatrwedoin": {
+        "description": "AppBarText2"
+    },
+    "whathavewedone": "Neler Yaptık?",
+    "@whathavewedone": {
+        "description": "AppBarText3"
+    },
+    "customers": "Müşteriler",
+    "@customers": {
+        "description": "AppBarText4"
+    },
+    "settings": "Ayarlar",
+    "@settings": {
+        "description": "AppBarText5"
+    },
+    "creativity": "Yaratıcılık",
+    "@creativity": {
+        "description": "mainpagebodytext_1"
+    },
+    "collobration": "İş Birliği",
+    "@collobration": {
+        "description": "mainpagebodytext_2"
+    },
+    "aboutus": "Geçmişten gelen deneyimlerimizle yeni projeler geliştirdik. Yaratıcı fikirle birlikte teknolojimizi de ileriye taşıdık. Çalışmalarımızda yeni teknolojiler kullanmaya özen gösterdik. Adım adım ilerlediğimiz bu alanda katma değeri yüksek işler yapmak ve dijital dünyayı yönetilebilir yapmak için toplandık. Profesyonel kadro ile uçtan uca çözümler üretmeye başladık.",
+    "@aboutus": {
+        "description": "aboutustext"
+    },
+    "aboutusP1header": "Slack",
+    "aboutuspageP1": "Müşterimizle anlık iletişim kurmamız gerekiyorsa Slack davetiyesi yolluyoruz. İletişimimizi Slack üzerinden sağlayıp aşağıdaki ortamlarlabirlikte çalışmasını sağlayabiliyoruz.",
+    "@aboutuspageP1": {
+        "description": "aboutuspageP1"
+    },
+    "aboutuspageP1S2": "Eğer Slack davetiyesi yollamıyorsanız, iletişim formunu doldurarak bizimle iletişime geçebilirsiniz.",
+    "@aboutuspageP1S2": {
+        "description": "aboutuspageP1S2"
+    },
+    "aboutusP2header": "Trello",
+    "aboutuspageP2": "Proje Yönetimimizi Trello ileYaptığımız çalışmaları müşterilerimizin rahatça takip edebilmesi için proje yönetim toolunda yetki verebiliyoruz, belli bir disipline göre proje yönetimimizi gerçekleştiriyoruz.",
+    "@aboutuspageP2": {
+        "description": "aboutuspageP2"
+    },
+    "aboutusP3header": "GitLab",
+    "aboutuspageP3": "Yazılım esnasında geliştirilen kodları versiyonlama sistemine yüklüyoruz, müşterimizle aramızda şeffaf çalışma ortamı sağlıyoruz.",
+    "@aboutuspageP3": {
+        "description": "aboutuspageP3"
+    },
+    "services": "Hizmetlerimiz",
+    "@services": {
+        "description": "services"
+    },
+    "servicesP1header": "Yazılım Hizmetleri",
+    "@servicesP1header": {
+        "description": "servicesP1header"
+    },
+    "servicesP2header": "Bakım Hizmetleri",
+    "@servicesP2header": {
+        "description": "servicesP2header"
+    },
+    "servicesP3header": "Dijital Pazarlama",
+    "@servicesP3header": {
+        "description": "servicesP3header"
+    },
+    "servicesP4header": "E-Ticaret",
+    "@servicesP4header": {
+        "description": "servicesP4header"
+    },
+    "servicesTextHeaderP1": "Yazılım Hizmetinde Verdiğimiz Çalışmalar",
+    "@servicesTextHeaderP1": {
+        "description": "Our Services Header 1"
+    },
+    "servicesTextBodyP1": "FrontEnd Development, BackEnd Development, iOS Development, Android Development hizmetlerini kapsamaktadır.",
+    "@servicesTextBodyP1": {
+        "description": "Our Services Body 1"
+    },
+    "servicesTextHeaderP2": "Yazılım Alanında Kullandığımız Teknolojiler",
+    "@servicesTextHeaderP2": {
+        "description": "Our Services Header 2"
+    },
+    "servicesTextBodyP2": "Aşağıda bulunan simgeler, çözüm ortağı olduğumuz firmalarda ve kurumsal hizmet verdiğimiz firmalarda gerçekleştirdiğimiz çalışmalarda kullanılan yazılım dillerini içermektedir.",
+    "@servicesTextBodyP2": {
+        "description": "Our Services Body 2"
+    },
+    "pistonabstract": "Piston CMS(İçerik yönetim sistemi)",
+    "@pistonabstract": {
+        "description": "Piston Product Abstract"
+    },
+    "pistonabstractbody": "Web site ve uygulama servislerine istenilen data girişlerini yapmak ve yönetmek amacıyla kurgulanmış tamamen özelleştirilmiş sınıﬂar ve fonksiyonlar kullanılmış bir kontrol paneli yapmak amaçlandı ve gerekli çalışmalar yapıldı.",
+    "@pistonabstractbody": {
+        "description": "Piston Product Long Abstract"
+    },
+    "pistonusedtechs":"FronEnd Development : HTML5,Bootstrap 3 Framework, JavaScript, Jquery, JSON\nBackEnd Development : Php Core \nDatabase : MySql -> MariaDb",
+    "@pistonusedtechs": { "description": "Piston Product Used Technologies" },
+    "boynerabstract": "Boyner Yayınları",
+    "@boynerabstract": {
+        "description": "Boyner Product Abstract"
+    },
+    "boynerabstractbody": "Kitap içeriklerini detaylı şekilde listelemek ve kullanıcıların rahatça ulaşmasına yardımcı olmak",
+    "@boynerabstractbody": {
+        "description": "Boyner Product Long Abstract"
+    },
+    "boynerusedtechs":"FronEnd Development : CSS3,HTML5,JQuery",
+    "@boynerusedtechs": { "description": "Boyner Product Used Technologies" },
+    "egzotiktatilabstract": "Egzotik tatil web page ve cms panel",
+    "@egzotiktatilabstract": {
+        "description": "Egzotik tatil Product Abstract"
+    },"egzotiktatilabstractbody": "Kullanıcıların istediği tatili inceleme ve fiyat araştırması yapmasına yardımcı olmak ve kullanıcının dilerse kendi turununu kendisinin oluşturabileceği bir ekrandan destek vermek.",
+    "@egzotiktatilabstractbody": {
+        "description": "Egzotik tatil Product Long Abstract"
+    },
+    "egzotikusedtechs":"FronEnd Development : JavaScript, JQuery, CSS3, HTML5, Bootstrap, Facebook Api \nBackEnd Development : PHP Core",
+    "@egzotikusedtechs": { "description": "Egzotik tatil Product Used Technologies" },
+    "seranitabstract": "Seranit Web Sitesi, CMS",
+    "@seranitabstract": {
+        "description": "Seranit Product Abstract"
+    },"seranitabstractbody": "Seranit ürünlerinin tek çatı altında toplanması ve yeni bir arayüz ile yeniden yayına girmesi amaçlanmış mobile site yerine kullanıcı dostu responsive tasarım kullanılarak tüm web sitesi yeniden yapılandırılmıştır.",
+    "@seranitabstractbody": {
+        "description": "Seranit Product Long Abstract"
+    },
+    "seranitusedtechs":"FrontEnd Development : JavaScript, JQuery, CSS3, HTML5, Bootstrap \nBackEnd Development : PHP Core",
+    "@seranitusedtechs": { "description": "Seranit Product Used Technologies" },
+    "tahsildarogluabstract": "Tahsildaroğlu Web Sitesi, CMS",
+    "@tahsildarogluabstract": {
+        "description": "Tahsildaroğlu Product Abstract"
+    },"tahsildarogluabstractbody": "Tahsildaroğlu web sitesine daha güncel ve kullanıcı dostu bir arayüz yapılması birden fazla dil hizmetini destekleyecek bir alt yapı ile CMS kontrolü sağlanması",
+    "@tahsildarogluabstractbody": {
+        "description": "Piston Product Long Abstract"
+    },
+    "tahsildarogluusedtechs":"FrontEnd Development : JavaScript, JQuery, CSS3, HTML5, Bootstrap\nBackEnd Development : PHP Core",
+    "@tahsildarogluusedtechs": { "description": "Tahsildaroğlu Product Used Technologies" },
+    "fomilkabstract": "Fomilk ürünlerinin online mağazası",
+    "@fomilkabstract": {
+        "description": "Fomilk Product Abstract"
+    },"fomilkabstractbody": "Fomilk ürünlerinin satış ve tanıtımını yapmak, Bu proje awards Türkiye tarafindan en iyi kurumsal web site kategorisinde 3.lük ödülü almıştır.",
+    "@fomilkabstractbody": {
+        "description": "Fomilk Product Long Abstract"
+    },
+    "fomilkusedtechs":"FrontEnd Development : JavaScript, JQuery, CSS3, HTML5, Bootstrap \nBackEnd Development : Core PHP ",
+    "@fomilkusedtechs": { "description": "Fomilk Product Used Technologies" },
+    "betofiberabstract": "Betofiber Web Sitesi, CMS",
+    "@betofiberabstract": {
+        "description": "Betofiber Product Abstract"
+    },"betofiberabstractbody": "Firma tanıtımını yapmak referans ve yapılan işin tanımını doğru ve güncel şekilde verebilmek",
+    "@betofiberabstractbody": {
+        "description": "Betofiber Product Long Abstract"
+    },
+    "betofiberusedtechs":"FrontEnd Development : JavaScript, JQuery, CSS3, HTML5, Bootstrap \nBackEnd Development : Core PHP ",
+    "@betofiberusedtechs": { "description": "Betofiber Product Used Technologies" },
+    "yurticikargoabstract": "Yurtiçi kargo maps uygulaması",
+    "@yurticikargoabstract": {
+        "description": "Yurtiçi kargo Product Abstract"
+    },"yurticikargoabstractbody": "Yurtiçi kargo çalışanları için hazırlanmış birden fazla maps uygulamasının tek çatı altında birleştirilerek güncellenen yol bigilerinin ve rotaların girilebildiği adres tanımı ve tarifi yapılabildiği bir web uygulaması tamamen kapalı devre olup sadece yurtiçi kargo genel merkezi tarafindan kullanılmaktadır",
+    "@yurticikargoabstractbody": {
+        "description": "Yurtiçi kargo Product Long Abstract"
+    },
+    "yurticikargousedtechs":"FronEnd Development : JavaScript, JQuery, Vue.js, CSS3, HTML5, Semantic UI",
+    "@yurticikargousedtechs": { "description": "Yurtiçi kargo Product Used Technologies" },
+    "intersportabstract": "Intersport Magaza Uygulamasi, CMS",
+    "@intersportabstract": {
+        "description": "Intersport Product Abstract"
+    },"intersportabstractbody": "Sadece mobile cihazlar üzerinden mağaza içinde oynanması hedeﬂenen bir eşleme oyunu oyunun amacı kullanıcıları hem eğlendirmek hemde bu eğlence sonunda belirli bir oranda indirim kazandırmak.",
+    "@intersportabstractbody": {
+        "description": "Intersport Product Long Abstract"
+    },
+    "intersportusedtechs":"FrontEnd Development : JavaScript, JQuery, CSS3, HTML5, Bootstrap \nBackEnd Development : PHP Core",
+    "@intersportusedtechs": { "description": "Intersport Product Used Technologies" },
+    "varyansabstract": "Varyans Web Sitesi, CMS",
+    "@varyansabstract": {
+        "description": "Varyans Product Abstract"
+    },"varyansabstractbody": "Mali müşavirlik konusunda yıllarca deneyimi olan müşterimiz dijital dünyaya ayak uydurarak hizmetlerini tanıdatabileceği bir web sayfası hazırlamamızı istedi.",
+    "@varyansabstractbody": {
+        "description": "Piston Product Long Abstract"
+    },
+    "varyansusedtechs":"FrontEnd Development : JavaScript, JQuery, CSS3, HTML5, Bootstrap",
+    "@varyansusedtechs": { "description": "Varyans Product Used Technologies" },
+    "vanucciabstract": "Vanucci Mutfak,Banyo Ürün tanıtım sitesi",
+    "@vanucciabstract": {
+        "description": "Vanucci Product Abstract"
+    },"vanucciabstractbody": "Vanucci markasının Türkiye disbüritörü olan seranitgrup için yapılmış bir ürün tanıtım ve renk,kapak ve kulp seçeneklerinin listelendiği bir web sitesi hazırlandı.",
+    "@vanucciabstractbody": {
+        "description": "Piston Product Long Abstract"
+    },
+    "vanucciusedtechs":"FrontEnd Development : JavaScript, JQuery, CSS3, HTML5, Bootstrap \nBackEnd Development : PHP Core",
+    "@vanucciusedtechs": { "description": "Vanucci Product Used Technologies" },
+    "sembolabstract": "Taşıma operasyonlarının atanmasını ve takibini yapmak amacıyla hazırlanmış şirket içi kullanılan bir takip uygulaması",
+    "@sembolabstract": {
+        "description": "Sembol Product Abstract"
+    },"sembolabstractbody": "Uygulama kurgulanarak tüm alt yapısı ile beraber hazırlanarak hem Google Play hem de Apple Store marketlere yüklendi aktif şekilde kullanılmaya başlandı. Uygulamanın ek olarak bir web arayüzü hazırlandı ve web panelinden gerekli durumlarda kullanıma açıldı.",
+    "@sembolabstractbody": {
+        "description": "Piston Product Long Abstract"
+    },
+    "sembolusedtechs":"Mobile Development : Flutter \nBackEnd Development : NodeJs ",
+    "@sembolusedtechs": { "description": "Sembol Product Used Technologies" },
+    "mevbankabstract": "Yeni çıkan mevzuatlar, çıkmış mevzuattaki son değişiklikler, resmi gazete fihristinin takibi, özel dergi yorumları ve ücretsiz makalelerin yer aldığı ve filtrelenebildiği bir mobil uygulama",
+    "@mevbankabstract": {
+        "description": "Mevbank Product Abstract"
+    },"mevbankabstractbody": "Uygulama kurgulanarak tüm alt yapısı ile beraber hazırlanarak hem Google Play hem de Apple Store marketlere yüklendi aktif şekilde kullanılmaya başlandı.",
+    "@mevbankabstractbody": {
+        "description": "Piston Product Long Abstract"
+    },
+    "mevbankusedtechs":"Mobile Development : Flutter \nBackEnd Development : NodeJs",
+    "@mevbankusedtechs": { "description": "Mevbank Product Used Technologies" }
+}

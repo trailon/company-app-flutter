@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(nox_digital_mobile LANGUAGES CXX)
+project(noxdigitalweb LANGUAGES CXX)
 
-set(BINARY_NAME "nox_digital_mobile")
+set(BINARY_NAME "noxdigitalweb")
 
 cmake_policy(SET CMP0063 NEW)
 

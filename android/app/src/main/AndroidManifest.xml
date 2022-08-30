@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.nox_digital_mobile">
+    package="com.example.noxdigitalweb">
    <application
-        android:label="nox_digital_mobile"
+        android:label="noxdigitalweb"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

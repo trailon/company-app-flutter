@@ -1,0 +1,22 @@
+{
+    "loginlabel": "Username",
+    "@loginlabel": {
+        "description": "Login username textfield label text"
+    },
+    "loginpasswordlabel": "Password",
+    "@loginpasswordlabel": {
+        "description": "Login password textfield label text"
+    },
+    "loginhint": "Enter Username",
+    "@loginhint": {
+        "description": "Login username textfield hint text"
+    },
+    "loginpasswordhint": "Enter Password",
+    "@loginpasswordhint": {
+        "description": "Login password textfield hint text"
+    },
+    "appname": "After Rain",
+    "@appname": {
+        "description": "App Name"
+    }
+}
